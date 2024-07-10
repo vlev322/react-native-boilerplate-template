@@ -1,0 +1,27 @@
+{
+    "name": "react-native-template",
+    "version": "0.0.1",
+    "keywords": [
+        "react",
+        "native",
+        "boilerplate",
+        "rn-boilerplate",
+        "handidev",
+        "react-native",
+        "starter-kit",
+        "react-navigation",
+        "react-native-navigation",
+        "0.73.1"
+    ],
+    "scripts": {
+        "release": "standard-version"
+    },
+    "description": "React Native Template",
+    "repository": "https://github.com/vlev322/react-native-template-boilerplate",
+    "author": "Vladyslav Levchenko",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "standard-version": "^9.5.0"
+    }
+}

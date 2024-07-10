@@ -1,0 +1,6 @@
+{
+  "name": "ReactNativeTemplateBoilerPlate",
+  "version": "0.0.1",
+  "slug": "ReactNativeTemplateBoilerPlate",
+  "platforms": ["ios", "android"],
+}
